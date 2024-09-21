@@ -1,0 +1,2502 @@
+[
+    {
+        "id": 1,
+        "title": "Люди Икс 2",
+        "rating": "7.4",
+        "year": 2003,
+        "budget": 110000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/417ac3c9-16ad-4b0d-bdd8-33f6fef9fa85/orig",
+        "position": 298
+    },
+    {
+        "id": 2,
+        "title": "Матрица: Перезагрузка",
+        "rating": "7.2",
+        "year": 2003,
+        "budget": 150000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/a53d1c75-4d1a-4c86-a936-65b2a724345c/orig",
+        "position": 299
+    },
+    {
+        "id": 3,
+        "title": "Лиззи Магуайр",
+        "rating": "5.5",
+        "year": 2003,
+        "budget": 17000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/a60e881c-c989-4a26-bbaf-c8323ffbf600/orig",
+        "position": 300
+    },
+    {
+        "id": 4,
+        "title": "Матрица",
+        "rating": "8.7",
+        "year": 1999,
+        "budget": 63000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/cf1970bc-3f08-4e0e-a095-2fb57c3aa7c6/orig",
+        "position": 301
+    },
+    {
+        "id": 5,
+        "title": "Клад",
+        "rating": "7",
+        "year": 2003,
+        "budget": 20000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/9212f7c7-78b1-45ab-964d-f92cc84056ff/orig",
+        "position": 302
+    },
+    {
+        "id": 6,
+        "title": "Управление гневом",
+        "rating": "6.3",
+        "year": 2003,
+        "budget": 75000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/872aff12-e80f-4c75-ac64-b139c46b78eb/orig",
+        "position": 303
+    },
+    {
+        "id": 7,
+        "title": "Афера",
+        "rating": "6.6",
+        "year": 2003,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/7329ddfa-afd1-429a-8f05-94dbf7f51779/orig",
+        "position": 304
+    },
+    {
+        "id": 8,
+        "title": "Телефонная будка",
+        "rating": "7.1",
+        "year": 2002,
+        "budget": 13000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/576d69f2-63f6-4770-afb7-d11fd6778fe9/orig",
+        "position": 305
+    },
+    {
+        "id": 9,
+        "title": "Рекрут",
+        "rating": "6.6",
+        "year": 2003,
+        "budget": 46000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/72dd6b1b-82d9-4c08-8d44-bbed18a5abbb/orig",
+        "position": 306
+    },
+    {
+        "id": 10,
+        "title": "Разыскиваются в Малибу",
+        "rating": "5.2",
+        "year": 2003,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/f5f5630b-3439-4b08-9f12-be0cb714754d/orig",
+        "position": 307
+    },
+    {
+        "id": 11,
+        "title": "Тупой и еще тупее тупого: Когда Гарри встретил Ллойда",
+        "rating": "3.4",
+        "year": 2003,
+        "budget": 19000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/32fc0c97-23a8-411a-ab0b-b2dd36c6e93f/orig",
+        "position": 308
+    },
+    {
+        "id": 12,
+        "title": "Эквилибриум",
+        "rating": "7.3",
+        "year": 2002,
+        "budget": 20000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/81852081-e0b8-4769-9756-45bbdc0bda1a/orig",
+        "position": 309
+    },
+    {
+        "id": 13,
+        "title": "Дежурный папа",
+        "rating": "5.6",
+        "year": 2003,
+        "budget": 60000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/3b89ac83-9a8a-47a5-996f-f3f99d8d93d7/orig",
+        "position": 310
+    },
+    {
+        "id": 14,
+        "title": "Пуленепробиваемый",
+        "rating": "5.5",
+        "year": 2003,
+        "budget": 52000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/f7e87d4d-5ed8-4dc7-b24c-a0d3d8f3132e/orig",
+        "position": 311
+    },
+    {
+        "id": 15,
+        "title": "Властелин колец: Две крепости",
+        "rating": "8.8",
+        "year": 2002,
+        "budget": 94000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/772093e4-7f68-49aa-a805-d654693aee26/orig",
+        "position": 312
+    },
+    {
+        "id": 16,
+        "title": "Играй как Бекхэм",
+        "rating": "6.7",
+        "year": 2002,
+        "budget": 3500159,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/d4b94226-64ce-42f4-abfc-f22d322d94ed/orig",
+        "position": 313
+    },
+    {
+        "id": 17,
+        "title": "Цыпочка",
+        "rating": "5.6",
+        "year": 2002,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/d0ab64df-98f0-4e49-aa30-62f4853b9de7/orig",
+        "position": 314
+    },
+    {
+        "id": 18,
+        "title": "Матрица: Революция",
+        "rating": "6.7",
+        "year": 2003,
+        "budget": 150000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/37fc55e7-dfc7-406f-a187-17ef49f65b6f/orig",
+        "position": 316
+    },
+    {
+        "id": 19,
+        "title": "Любовь с уведомлением",
+        "rating": "6.1",
+        "year": 2002,
+        "budget": 60000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/6c497136-1416-496d-814d-a86acce5af18/orig",
+        "position": 317
+    },
+    {
+        "id": 20,
+        "title": "Ограбление по-итальянски",
+        "rating": "7",
+        "year": 2003,
+        "budget": 60000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/7673fc11-be11-45f7-a997-f757a04b0cd9/orig",
+        "position": 318
+    },
+    {
+        "id": 21,
+        "title": "Терминатор 3: Восстание машин",
+        "rating": "6.3",
+        "year": 2003,
+        "budget": 200000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/eb157a95-c1fa-4426-8eab-90653e848923/orig",
+        "position": 319
+    },
+    {
+        "id": 22,
+        "title": "25-й час",
+        "rating": "7.6",
+        "year": 2002,
+        "budget": 5000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/36278095-3e97-47ba-8cdb-b07466598be8/orig",
+        "position": 320
+    },
+    {
+        "id": 23,
+        "title": "Звездный путь: Возмездие",
+        "rating": "6.4",
+        "year": 2002,
+        "budget": 60000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/edcf17bd-0972-4f71-9fb3-733ba2dda00b/orig",
+        "position": 321
+    },
+    {
+        "id": 24,
+        "title": "Гарри Поттер и узник Азкабана",
+        "rating": "7.9",
+        "year": 2004,
+        "budget": 130000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/3eabac99-fb98-4b12-ba9f-6172782d54c6/orig",
+        "position": 322
+    },
+    {
+        "id": 25,
+        "title": "Двойной форсаж",
+        "rating": "5.9",
+        "year": 2003,
+        "budget": 76000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/a7de8b77-34a0-4b22-9574-acec6c689958/orig",
+        "position": 323
+    },
+    {
+        "id": 26,
+        "title": "Поймай меня, если сможешь",
+        "rating": "8.1",
+        "year": 2002,
+        "budget": 52000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e38dd6f9-610e-4c90-8540-dc48560cb9cc/orig",
+        "position": 324
+    },
+    {
+        "id": 27,
+        "title": "Крестный отец",
+        "rating": "9.2",
+        "year": 1972,
+        "budget": 6000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/c11652e8-653b-47c1-8e72-1552399a775b/orig",
+        "position": 325
+    },
+    {
+        "id": 28,
+        "title": "Побег из Шоушенка",
+        "rating": "9.3",
+        "year": 1994,
+        "budget": 25000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/0b76b2a2-d1c7-4f04-a284-80ff7bb709a4/orig",
+        "position": 326
+    },
+    {
+        "id": 29,
+        "title": "Крестный отец 2",
+        "rating": "9",
+        "year": 1974,
+        "budget": 13000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/33474b2a-d670-47c8-9cbe-51291847b6d4/orig",
+        "position": 327
+    },
+    {
+        "id": 30,
+        "title": "Властелин колец: Братство Кольца",
+        "rating": "8.9",
+        "year": 2001,
+        "budget": 93000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/a2d5bcae-a1a9-442f-8195-f5373a5ba77f/orig",
+        "position": 328
+    },
+    {
+        "id": 31,
+        "title": "Список Шиндлера",
+        "rating": "9",
+        "year": 1993,
+        "budget": 22000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/1e1ac6d9-c658-4f5f-937e-d080bca0d893/orig",
+        "position": 329
+    },
+    {
+        "id": 32,
+        "title": "Касабланка",
+        "rating": "8.5",
+        "year": 1942,
+        "budget": 950000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/1d316279-1d2c-4919-b210-83fe3510e529/orig",
+        "position": 330
+    },
+    {
+        "id": 33,
+        "title": "Гражданин Кейн",
+        "rating": "8.3",
+        "year": 1941,
+        "budget": 839727,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10812607/3c038064-97e3-4017-92b4-1dd9e866664b/orig",
+        "position": 331
+    },
+    {
+        "id": 34,
+        "title": "Семь самураев",
+        "rating": "8.6",
+        "year": 1954,
+        "budget": 500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/9ff2e712-2dd0-46ee-8c44-ca9ffbb7171d/orig",
+        "position": 332
+    },
+    {
+        "id": 35,
+        "title": "Звёздные войны: Эпизод 4 – Новая надежда",
+        "rating": "8.6",
+        "year": 1977,
+        "budget": 11000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/9bdc6690-de82-4a8c-a114-aa3a353bc1da/orig",
+        "position": 333
+    },
+    {
+        "id": 36,
+        "title": "Доктор Стрейнджлав, или Как я научился не волноваться и полюбил атомную бомбу",
+        "rating": "8.3",
+        "year": 1963,
+        "budget": 1800000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/500c65bf-b631-44c5-b218-40d6ce5240be/orig",
+        "position": 334
+    },
+    {
+        "id": 37,
+        "title": "Мементо",
+        "rating": "8.4",
+        "year": 2000,
+        "budget": 9000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/3fabdd0d-9b34-4cbf-a3b0-eb8448ccc122/orig",
+        "position": 335
+    },
+    {
+        "id": 38,
+        "title": "Пролетая над гнездом кукушки",
+        "rating": "8.7",
+        "year": 1975,
+        "budget": 3000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/3521be40-0419-4864-9d62-461cc7959f2c/orig",
+        "position": 336
+    },
+    {
+        "id": 39,
+        "title": "Окно во двор",
+        "rating": "8.5",
+        "year": 1954,
+        "budget": 2000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/b366c92a-690b-4586-89e4-974ca741c420/orig",
+        "position": 337
+    },
+    {
+        "id": 40,
+        "title": "Звёздные войны: Эпизод 5 – Империя наносит ответный удар",
+        "rating": "8.7",
+        "year": 1980,
+        "budget": 18000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/42f4a53f-b353-4700-bbb7-525837c46630/orig",
+        "position": 338
+    },
+    {
+        "id": 41,
+        "title": "Индиана Джонс: В поисках утраченного ковчега",
+        "rating": "8.4",
+        "year": 1981,
+        "budget": 18000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/2b81e7f3-2f2b-490f-988e-c008e4276560/orig",
+        "position": 339
+    },
+    {
+        "id": 42,
+        "title": "Подозрительные лица",
+        "rating": "8.5",
+        "year": 1995,
+        "budget": 6000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/194aa7f0-13ab-401e-8ae7-913191a6e785/orig",
+        "position": 340
+    },
+    {
+        "id": 43,
+        "title": "Амели",
+        "rating": "8.3",
+        "year": 2001,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/a49739d0-a2da-4e53-83c0-116fe2d4cc27/orig",
+        "position": 341
+    },
+    {
+        "id": 44,
+        "title": "Криминальное чтиво",
+        "rating": "8.9",
+        "year": 1994,
+        "budget": 8000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/87b5659d-a159-4224-9bff-d5a5d109a53b/orig",
+        "position": 342
+    },
+    {
+        "id": 45,
+        "title": "На север через северо-запад",
+        "rating": "8.3",
+        "year": 1959,
+        "budget": 4000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/304cac3f-1186-477b-a025-742c351bf7c7/orig",
+        "position": 343
+    },
+    {
+        "id": 46,
+        "title": "Психо",
+        "rating": "8.5",
+        "year": 1960,
+        "budget": 806947,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/abbb4d30-fd08-4fc1-9543-333b2276be11/orig",
+        "position": 344
+    },
+    {
+        "id": 47,
+        "title": "Молчание ягнят",
+        "rating": "8.6",
+        "year": 1990,
+        "budget": 19000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/9c655ce1-2b59-4941-97aa-f9e928ed0ff4/orig",
+        "position": 345
+    },
+    {
+        "id": 48,
+        "title": "12 разгневанных мужчин",
+        "rating": "9",
+        "year": 1956,
+        "budget": 340000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/081f9649-0bbd-4232-b4d7-1312c64e567c/orig",
+        "position": 346
+    },
+    {
+        "id": 49,
+        "title": "Лоуренс Аравийский",
+        "rating": "8.3",
+        "year": 1962,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/0eee2a65-f954-448d-aff2-456bc8c4e542/orig",
+        "position": 347
+    },
+    {
+        "id": 50,
+        "title": "Эта замечательная жизнь",
+        "rating": "8.6",
+        "year": 1947,
+        "budget": 3180000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/c763cab4-ee73-449a-9717-701052dfbffb/orig",
+        "position": 348
+    },
+    {
+        "id": 51,
+        "title": "Хороший, плохой, злой",
+        "rating": "8.8",
+        "year": 1966,
+        "budget": 1200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/8b9d4616-9426-4c74-a63c-296189f28213/orig",
+        "position": 349
+    },
+    {
+        "id": 52,
+        "title": "Славные парни",
+        "rating": "8.7",
+        "year": 1990,
+        "budget": 25000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/7f119fc4-7fe0-4738-9fa4-bc541d468911/orig",
+        "position": 350
+    },
+    {
+        "id": 53,
+        "title": "Красота по-американски",
+        "rating": "8.3",
+        "year": 1999,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/36f029a1-497d-45cd-b9fa-a152712a899c/orig",
+        "position": 351
+    },
+    {
+        "id": 54,
+        "title": "Головокружение",
+        "rating": "8.3",
+        "year": 1958,
+        "budget": 2479000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/c4674483-78a6-49cb-aa6f-bbc3859884e4/orig",
+        "position": 352
+    },
+    {
+        "id": 55,
+        "title": "Сансет бульвар",
+        "rating": "8.4",
+        "year": 1950,
+        "budget": 1752000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/aaf262e7-3adb-4193-aa8f-f4d362b71def/orig",
+        "position": 353
+    },
+    {
+        "id": 56,
+        "title": "Апокалипсис сегодня",
+        "rating": "8.4",
+        "year": 1979,
+        "budget": 31500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/a0d6537e-72ee-47f2-b51f-ef776b1b9cdf/orig",
+        "position": 354
+    },
+    {
+        "id": 57,
+        "title": "Пианист",
+        "rating": "8.5",
+        "year": 2002,
+        "budget": 35000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/6d71694e-3796-4e1c-96aa-0e982c2bc03d/orig",
+        "position": 355
+    },
+    {
+        "id": 58,
+        "title": "В джазе только девушки",
+        "rating": "8.2",
+        "year": 1959,
+        "budget": 2883848,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/f9d40e34-f5b2-49ca-9fe0-bbdd3e43da3a/orig",
+        "position": 356
+    },
+    {
+        "id": 59,
+        "title": "Убить пересмешника",
+        "rating": "8.3",
+        "year": 1962,
+        "budget": 2000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/46b80991-7b6f-484b-b6dd-8cd2cd6ccbe9/orig",
+        "position": 357
+    },
+    {
+        "id": 60,
+        "title": "Таксист",
+        "rating": "8.2",
+        "year": 1976,
+        "budget": 1900000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/e2d3a565-39a6-4bce-8ade-7033072d9039/orig",
+        "position": 358
+    },
+    {
+        "id": 61,
+        "title": "Третий человек",
+        "rating": "8.1",
+        "year": 1949,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/b5590dc7-9bb9-4760-a744-5f86cad2a49f/orig",
+        "position": 359
+    },
+    {
+        "id": 62,
+        "title": "Тропы славы",
+        "rating": "8.4",
+        "year": 1957,
+        "budget": 935000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/33a4403d-9750-4d45-a20a-dffa0e03f49c/orig",
+        "position": 360
+    },
+    {
+        "id": 63,
+        "title": "Бойцовский клуб",
+        "rating": "8.8",
+        "year": 1999,
+        "budget": 63000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/85b585ea-410f-4d1c-aaa5-8d242756c2a4/orig",
+        "position": 361
+    },
+    {
+        "id": 64,
+        "title": "Подводная лодка",
+        "rating": "8.4",
+        "year": 1981,
+        "budget": 14000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/cec066d4-70ac-4563-82d5-8bf74fc90fa2/orig",
+        "position": 362
+    },
+    {
+        "id": 65,
+        "title": "Секреты Лос-Анджелеса",
+        "rating": "8.2",
+        "year": 1997,
+        "budget": 35000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/4688a7e8-0438-496d-8b9d-fe2df63d1d41/orig",
+        "position": 363
+    },
+    {
+        "id": 66,
+        "title": "Двойная страховка",
+        "rating": "8.3",
+        "year": 1944,
+        "budget": 927262,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/2d7f4533-eee5-413e-88c3-cc9cbf465012/orig",
+        "position": 364
+    },
+    {
+        "id": 67,
+        "title": "Китайский квартал",
+        "rating": "8.1",
+        "year": 1974,
+        "budget": 6000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/d8913c0f-f10d-4930-ac21-15c07baa0dfc/orig",
+        "position": 365
+    },
+    {
+        "id": 68,
+        "title": "Мальтийский сокол",
+        "rating": "7.9",
+        "year": 1941,
+        "budget": 300000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/33a4e7f4-0083-4cd8-9a00-7c3bd18ab238/orig",
+        "position": 366
+    },
+    {
+        "id": 69,
+        "title": "Реквием по мечте",
+        "rating": "8.3",
+        "year": 2000,
+        "budget": 4500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/2a50c6d2-16b2-440d-a419-ab7306fc82fa/orig",
+        "position": 367
+    },
+    {
+        "id": 70,
+        "title": "Поющие под дождем",
+        "rating": "8.3",
+        "year": 1951,
+        "budget": 2540800,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/b38fde27-1056-4b28-bcf5-a8fea18f0cf2/orig",
+        "position": 368
+    },
+    {
+        "id": 71,
+        "title": "Мост через реку Квай",
+        "rating": "8.1",
+        "year": 1957,
+        "budget": 3000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/515a7f7b-e28b-4277-9542-75cb3437fdab/orig",
+        "position": 369
+    },
+    {
+        "id": 72,
+        "title": "Спасти рядового Райана",
+        "rating": "8.6",
+        "year": 1998,
+        "budget": 70000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/9ebff88a-fdd1-4a90-b3cf-7fb5bd256ed7/orig",
+        "position": 371
+    },
+    {
+        "id": 73,
+        "title": "Всё о Еве",
+        "rating": "8.2",
+        "year": 1950,
+        "budget": 1400000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/bc088cca-a4ca-40fc-9455-ec39e0519b4b/orig",
+        "position": 372
+    },
+    {
+        "id": 74,
+        "title": "М убийца",
+        "rating": "8.3",
+        "year": 1931,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/f08b3023-27e2-46b3-8f7b-e44167f10c60/orig",
+        "position": 373
+    },
+    {
+        "id": 75,
+        "title": "Бешеный бык",
+        "rating": "8.1",
+        "year": 1980,
+        "budget": 18000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/3f51ec5f-356a-4192-a1f3-1f0097019f00/orig",
+        "position": 374
+    },
+    {
+        "id": 76,
+        "title": "Монти Пайтон и Священный Грааль",
+        "rating": "8.2",
+        "year": 1975,
+        "budget": 229575,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/107a90fd-7af3-48ba-957c-4c71216caf2b/orig",
+        "position": 375
+    },
+    {
+        "id": 77,
+        "title": "Однажды на Диком Западе",
+        "rating": "8.5",
+        "year": 1968,
+        "budget": 5000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/c366d993-15b8-4817-b619-c9b149af4494/orig",
+        "position": 376
+    },
+    {
+        "id": 78,
+        "title": "Семь",
+        "rating": "8.6",
+        "year": 1995,
+        "budget": 33000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/9ce4716c-dd27-435b-8a3a-f833ad859052/orig",
+        "position": 377
+    },
+    {
+        "id": 79,
+        "title": "Крадущийся тигр, затаившийся дракон",
+        "rating": "7.9",
+        "year": 2000,
+        "budget": 17000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/bc1c4231-80b1-40bb-8b81-16c6804eab0a/orig",
+        "position": 378
+    },
+    {
+        "id": 80,
+        "title": "Волшебник страны Оз",
+        "rating": "8.1",
+        "year": 1939,
+        "budget": 2777000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/13acf544-539c-481f-978e-860e9dc7c2ba/orig",
+        "position": 379
+    },
+    {
+        "id": 81,
+        "title": "2001 год: Космическая одиссея",
+        "rating": "8.3",
+        "year": 1968,
+        "budget": 12000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/4fb869bc-9e2f-46cc-a72d-df67ead77fff/orig",
+        "position": 380
+    },
+    {
+        "id": 82,
+        "title": "Жизнь прекрасна",
+        "rating": "8.6",
+        "year": 1997,
+        "budget": 20000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/97353be9-362d-47bc-bbeb-c366db381c33/orig",
+        "position": 381
+    },
+    {
+        "id": 83,
+        "title": "Американская история X",
+        "rating": "8.5",
+        "year": 1998,
+        "budget": 20000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e0eb0512-5180-41d4-8788-f22d77b79501/orig",
+        "position": 382
+    },
+    {
+        "id": 84,
+        "title": "Афера",
+        "rating": "8.3",
+        "year": 1973,
+        "budget": 5500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/dbb8d4ca-a07b-4127-b8ae-f38ad1820fe1/orig",
+        "position": 383
+    },
+    {
+        "id": 85,
+        "title": "Печать зла",
+        "rating": "8",
+        "year": 1958,
+        "budget": 829000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/eab1da7b-5cfd-435a-9717-22172156e6a6/orig",
+        "position": 384
+    },
+    {
+        "id": 86,
+        "title": "Маньчжурский кандидат",
+        "rating": "7.9",
+        "year": 1962,
+        "budget": 2200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/87a0ae1f-ff32-4833-afb9-a0c237169e65/orig",
+        "position": 385
+    },
+    {
+        "id": 87,
+        "title": "Чужой",
+        "rating": "8.5",
+        "year": 1979,
+        "budget": 11000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/14af6019-b2fe-4e1e-bee5-334d9e472d94/orig",
+        "position": 386
+    },
+    {
+        "id": 88,
+        "title": "Мистер Смит едет в Вашингтон",
+        "rating": "8.1",
+        "year": 1939,
+        "budget": 1900000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/c9b3d1a7-03e4-427a-aa20-04b0bc289ece/orig",
+        "position": 387
+    },
+    {
+        "id": 89,
+        "title": "Расёмон",
+        "rating": "8.2",
+        "year": 1950,
+        "budget": 250000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/6d80dc6e-7edf-49a1-9912-572c83f152a1/orig",
+        "position": 388
+    },
+    {
+        "id": 90,
+        "title": "Леон",
+        "rating": "8.5",
+        "year": 1994,
+        "budget": 115000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/8662d92a-5881-4600-a7ae-549e6fd53b03/orig",
+        "position": 389
+    },
+    {
+        "id": 91,
+        "title": "Энни Холл",
+        "rating": "8",
+        "year": 1977,
+        "budget": 4000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/787826af-f3a8-4611-82cb-865a4aa1407a/orig",
+        "position": 390
+    },
+    {
+        "id": 92,
+        "title": "Заводной апельсин",
+        "rating": "8.3",
+        "year": 1971,
+        "budget": 2200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/5c80a1c4-b8d4-4fc9-a363-41df01545f7f/orig",
+        "position": 391
+    },
+    {
+        "id": 93,
+        "title": "Большой побег",
+        "rating": "8.2",
+        "year": 1963,
+        "budget": 4000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/a53a7633-e321-4f90-a5fe-cb974211f3e3/orig",
+        "position": 392
+    },
+    {
+        "id": 94,
+        "title": "Сокровища Сьерра Мадре",
+        "rating": "8.2",
+        "year": 1947,
+        "budget": 3800000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/0de253ef-fac4-4404-acae-87b66689182f/orig",
+        "position": 393
+    },
+    {
+        "id": 95,
+        "title": "Бешеные псы",
+        "rating": "8.3",
+        "year": 1991,
+        "budget": 1200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/b1add366-9e49-4ad8-905a-46ca23da8adc/orig",
+        "position": 394
+    },
+    {
+        "id": 96,
+        "title": "Шестое чувство",
+        "rating": "8.2",
+        "year": 1999,
+        "budget": 40000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/770e2754-f886-4012-852d-63580984a310/orig",
+        "position": 395
+    },
+    {
+        "id": 97,
+        "title": "Челюсти",
+        "rating": "8.1",
+        "year": 1975,
+        "budget": 7000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/8632d1cd-9819-46b2-95a0-e583b2f72ffb/orig",
+        "position": 396
+    },
+    {
+        "id": 98,
+        "title": "Амадей",
+        "rating": "8.4",
+        "year": 1984,
+        "budget": 18000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/fdd9adaa-2b37-4d0e-9002-c00bcf439fd0/orig",
+        "position": 397
+    },
+    {
+        "id": 99,
+        "title": "В порту",
+        "rating": "8.1",
+        "year": 1954,
+        "budget": 910000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/7e92ba16-97a2-42d1-92cc-20bd6b8c9ea6/orig",
+        "position": 398
+    },
+    {
+        "id": 100,
+        "title": "Храброе сердце",
+        "rating": "8.3",
+        "year": 1995,
+        "budget": 72000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/ce82bed6-15de-4d5c-aa68-fae55556e39f/orig",
+        "position": 399
+    },
+    {
+        "id": 101,
+        "title": "Ран",
+        "rating": "8.2",
+        "year": 1985,
+        "budget": 11500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/4979d2d6-03e2-49e6-ab9c-639497cb6010/orig",
+        "position": 400
+    },
+    {
+        "id": 102,
+        "title": "Ровно в полдень",
+        "rating": "7.9",
+        "year": 1952,
+        "budget": 730000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/972acd2e-973e-4005-8dc4-927c8b71ad2d/orig",
+        "position": 401
+    },
+    {
+        "id": 103,
+        "title": "Фарго",
+        "rating": "8.1",
+        "year": 1995,
+        "budget": 7000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/1783ce03-1a5e-4c0e-97ac-e7424a3ffa9a/orig",
+        "position": 402
+    },
+    {
+        "id": 104,
+        "title": "Бегущий по лезвию",
+        "rating": "8.1",
+        "year": 1982,
+        "budget": 28000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/ffa0729b-8587-47e8-b4de-3f8a2c61e218/orig",
+        "position": 403
+    },
+    {
+        "id": 105,
+        "title": "Квартира",
+        "rating": "8.3",
+        "year": 1960,
+        "budget": 3000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/a0b4af58-27b3-4ff1-8f4d-b181cb59987f/orig",
+        "position": 404
+    },
+    {
+        "id": 106,
+        "title": "Чужие",
+        "rating": "8.4",
+        "year": 1986,
+        "budget": 18500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/cc6ba1ce-a005-4e39-b913-06e8c866817c/orig",
+        "position": 406
+    },
+    {
+        "id": 107,
+        "title": "Незнакомцы в поезде",
+        "rating": "7.9",
+        "year": 1951,
+        "budget": 1200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/e7a0be91-ecb6-40c9-bb60-c9b305c16c30/orig",
+        "position": 407
+    },
+    {
+        "id": 108,
+        "title": "Новые времена",
+        "rating": "8.5",
+        "year": 1936,
+        "budget": 1500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/6b0ba87c-9dbb-4639-889e-4b8099b187e3/orig",
+        "position": 408
+    },
+    {
+        "id": 109,
+        "title": "Сияние",
+        "rating": "8.4",
+        "year": 1980,
+        "budget": 19000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/49ba5c05-249b-4387-8418-833aa54bb376/orig",
+        "position": 409
+    },
+    {
+        "id": 110,
+        "title": "Донни Дарко",
+        "rating": "8",
+        "year": 2001,
+        "budget": 4500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/4c2dd163-0681-48c9-97eb-1d4e6e41486a/orig",
+        "position": 410
+    },
+    {
+        "id": 111,
+        "title": "Утиный суп",
+        "rating": "7.7",
+        "year": 1933,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/f9d1d84a-d8be-44cc-b3aa-fbf859a7ec3c/orig",
+        "position": 411
+    },
+    {
+        "id": 112,
+        "title": "Принцесса-невеста",
+        "rating": "8",
+        "year": 1987,
+        "budget": 16000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/beed4b44-b4d9-4f08-9819-cd8482918b22/orig",
+        "position": 412
+    },
+    {
+        "id": 113,
+        "title": "Беги, Лола, беги",
+        "rating": "7.6",
+        "year": 1998,
+        "budget": 3500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/44496e87-46cc-45aa-a0a1-3581516506d2/orig",
+        "position": 413
+    },
+    {
+        "id": 114,
+        "title": "Огни большого города",
+        "rating": "8.5",
+        "year": 1931,
+        "budget": 1500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/fc084f01-9350-4bdc-956c-9de80385de4a/orig",
+        "position": 414
+    },
+    {
+        "id": 115,
+        "title": "Паровоз Генерал",
+        "rating": "8.1",
+        "year": 1926,
+        "budget": 750000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/20687f2d-d388-4287-b8b0-1169488561e6/orig",
+        "position": 415
+    },
+    {
+        "id": 116,
+        "title": "Искатели",
+        "rating": "7.8",
+        "year": 1956,
+        "budget": 3750000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/628b77b2-00cc-4b8d-8681-3735b2d68d78/orig",
+        "position": 416
+    },
+    {
+        "id": 117,
+        "title": "Метрополис",
+        "rating": "8.3",
+        "year": 1927,
+        "budget": 6000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/e5aeb235-206a-4844-9a4a-c7e3b342bd30/orig",
+        "position": 417
+    },
+    {
+        "id": 118,
+        "title": "Цельнометаллическая оболочка",
+        "rating": "8.3",
+        "year": 1987,
+        "budget": 30000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/63ae09b0-12c7-4ca6-996a-1a9435cb8cfc/orig",
+        "position": 418
+    },
+    {
+        "id": 119,
+        "title": "Дурная слава",
+        "rating": "7.9",
+        "year": 1946,
+        "budget": 2000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/07aa330f-85ef-453f-ab04-08207634f8c4/orig",
+        "position": 419
+    },
+    {
+        "id": 120,
+        "title": "Манхэттен",
+        "rating": "7.8",
+        "year": 1979,
+        "budget": 9000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/62779736-0398-4a10-a418-e61a8d918398/orig",
+        "position": 420
+    },
+    {
+        "id": 121,
+        "title": "Буч Кэссиди и Сандэнс Кид",
+        "rating": "8",
+        "year": 1969,
+        "budget": 6000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/98cbe336-4778-469c-abce-39043cf67be7/orig",
+        "position": 421
+    },
+    {
+        "id": 122,
+        "title": "Выпускник",
+        "rating": "8",
+        "year": 1967,
+        "budget": 3000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/5c1ab88a-e120-4570-ac69-dc23d62cc02a/orig",
+        "position": 422
+    },
+    {
+        "id": 123,
+        "title": "Глубокий сон",
+        "rating": "7.9",
+        "year": 1946,
+        "budget": 250000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/e3b69624-d95d-4604-bbbf-8dd1078cf0a3/orig",
+        "position": 423
+    },
+    {
+        "id": 124,
+        "title": "Новый кинотеатр «Парадизо»",
+        "rating": "8.5",
+        "year": 1988,
+        "budget": 5000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/c6c61323-479f-48dc-8ac6-74b67242c6a9/orig",
+        "position": 424
+    },
+    {
+        "id": 125,
+        "title": "Седьмая печать",
+        "rating": "8.1",
+        "year": 1957,
+        "budget": 150000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10835644/25bea97e-6113-4cfa-8a1c-77daeb7c32a6/orig",
+        "position": 425
+    },
+    {
+        "id": 126,
+        "title": "Ребекка",
+        "rating": "8.1",
+        "year": 1940,
+        "budget": 1288000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/3a325e65-9a2a-4543-97ee-2981e0d29298/orig",
+        "position": 426
+    },
+    {
+        "id": 127,
+        "title": "Доблесть",
+        "rating": "7.8",
+        "year": 1989,
+        "budget": 18000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/a695df3f-b922-45ff-933a-edf0e24401f0/orig",
+        "position": 427
+    },
+    {
+        "id": 128,
+        "title": "Охотник на оленей",
+        "rating": "8.1",
+        "year": 1978,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/013a7dc0-17bf-49eb-886b-97a8c40db73c/orig",
+        "position": 428
+    },
+    {
+        "id": 129,
+        "title": "Лучшие годы нашей жизни",
+        "rating": "8.1",
+        "year": 1946,
+        "budget": 2100000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/19a7ebb8-067e-4a13-8ef0-32e00d1ea6b0/orig",
+        "position": 429
+    },
+    {
+        "id": 130,
+        "title": "Великий диктатор",
+        "rating": "8.4",
+        "year": 1940,
+        "budget": 2000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/75ae49cc-000e-4815-bdab-4d86e609a0c4/orig",
+        "position": 431
+    },
+    {
+        "id": 131,
+        "title": "Похитители велосипедов",
+        "rating": "8.3",
+        "year": 1948,
+        "budget": 133000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/4927dde7-0b9a-4b58-8a0b-6c8d05703dcb/orig",
+        "position": 432
+    },
+    {
+        "id": 132,
+        "title": "Паттон",
+        "rating": "7.9",
+        "year": 1970,
+        "budget": 12000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/c5d335d9-c1cd-4953-b508-020f6e7a9c80/orig",
+        "position": 433
+    },
+    {
+        "id": 133,
+        "title": "Африканская королева",
+        "rating": "7.7",
+        "year": 1951,
+        "budget": 1000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/662715ab-b763-4067-bd9f-3fba9f450bd4/orig",
+        "position": 434
+    },
+    {
+        "id": 134,
+        "title": "Зеленая миля",
+        "rating": "8.6",
+        "year": 1999,
+        "budget": 60000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/4057c4b8-8208-4a04-b169-26b0661453e3/orig",
+        "position": 435
+    },
+    {
+        "id": 135,
+        "title": "Бен-Гур",
+        "rating": "8.1",
+        "year": 1959,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/da133add-04d7-409d-b135-c12c95ca5c08/orig",
+        "position": 436
+    },
+    {
+        "id": 136,
+        "title": "Это случилось однажды ночью",
+        "rating": "8.1",
+        "year": 1934,
+        "budget": 325000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/42b13491-e8b3-4de1-a82c-3bc0903be412/orig",
+        "position": 437
+    },
+    {
+        "id": 137,
+        "title": "Филадельфийская история",
+        "rating": "7.9",
+        "year": 1940,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/84c8b23f-07ec-48ca-b226-d9bd75dbde4d/orig",
+        "position": 438
+    },
+    {
+        "id": 138,
+        "title": "Город бога",
+        "rating": "8.6",
+        "year": 2002,
+        "budget": 3300000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/253edce8-cf8c-4045-a40b-81fc19374b00/orig",
+        "position": 439
+    },
+    {
+        "id": 139,
+        "title": "Воспитание Крошки",
+        "rating": "7.8",
+        "year": 1938,
+        "budget": 1073000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e840ca57-354a-44bf-a282-53add07fd18c/orig",
+        "position": 440
+    },
+    {
+        "id": 140,
+        "title": "Простая история",
+        "rating": "8",
+        "year": 1999,
+        "budget": 10000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/b63e41d4-4702-475a-b1ed-bcfc965e1a6a/orig",
+        "position": 442
+    },
+    {
+        "id": 141,
+        "title": "Хладнокровный Люк",
+        "rating": "8.1",
+        "year": 1967,
+        "budget": 3200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/6a3f204c-f052-4ba7-9ca6-5888db587022/orig",
+        "position": 443
+    },
+    {
+        "id": 142,
+        "title": "Терминатор 2: Судный день",
+        "rating": "8.6",
+        "year": 1991,
+        "budget": 102000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/ade65029-952f-488d-87b2-20c676970151/orig",
+        "position": 444
+    },
+    {
+        "id": 143,
+        "title": "Телохранитель",
+        "rating": "8.2",
+        "year": 1961,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/b090023f-852b-4151-bb20-a370928d367d/orig",
+        "position": 445
+    },
+    {
+        "id": 144,
+        "title": "Гроздья гнева",
+        "rating": "8.1",
+        "year": 1940,
+        "budget": 800000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/654e8b09-5458-43a8-9f35-3b83f79d13d2/orig",
+        "position": 446
+    },
+    {
+        "id": 145,
+        "title": "Звёздные войны: Эпизод 6 – Возвращение Джедая",
+        "rating": "8.3",
+        "year": 1983,
+        "budget": 32500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/1ae91486-01cd-424e-8562-119a73add1e6/orig",
+        "position": 447
+    },
+    {
+        "id": 146,
+        "title": "Форрест Гамп",
+        "rating": "8.8",
+        "year": 1994,
+        "budget": 55000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/3560b757-9b95-45ec-af8c-623972370f9d/orig",
+        "position": 448
+    },
+    {
+        "id": 147,
+        "title": "Мышьяк и старые кружева",
+        "rating": "7.9",
+        "year": 1944,
+        "budget": 1120175,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/267825f9-a7ea-47fc-a8d7-f3eb2b0d38f8/orig",
+        "position": 449
+    },
+    {
+        "id": 148,
+        "title": "Дикая банда",
+        "rating": "7.9",
+        "year": 1969,
+        "budget": 6000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/3e86b010-5bf7-4120-9f6a-cd9c90b3b5c9/orig",
+        "position": 450
+    },
+    {
+        "id": 149,
+        "title": "Непрощенный",
+        "rating": "8.2",
+        "year": 1992,
+        "budget": 14400000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4486362/756e6a92-87df-4082-a1d8-81117a7c03fe/orig",
+        "position": 451
+    },
+    {
+        "id": 150,
+        "title": "Рождественская история",
+        "rating": "7.9",
+        "year": 1983,
+        "budget": 3300000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/f0ce249b-880b-467f-bb99-5936bb376e78/orig",
+        "position": 452
+    },
+    {
+        "id": 151,
+        "title": "Ночь охотника",
+        "rating": "8",
+        "year": 1955,
+        "budget": 795000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4486454/689c3463-2827-428b-91a2-6a093a053951/orig",
+        "position": 453
+    },
+    {
+        "id": 152,
+        "title": "Почти знаменит",
+        "rating": "7.9",
+        "year": 2000,
+        "budget": 60000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/872350a9-e317-40bd-9deb-4521eeaaa4c2/orig",
+        "position": 454
+    },
+    {
+        "id": 153,
+        "title": "Молодой Франкенштейн",
+        "rating": "8",
+        "year": 1974,
+        "budget": 2800000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/9ee7cd96-ee35-41ca-a32a-270df1c48b5a/orig",
+        "position": 455
+    },
+    {
+        "id": 154,
+        "title": "Унесённые ветром",
+        "rating": "8.2",
+        "year": 1939,
+        "budget": 3977000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/44bc3765-61ca-4487-8efd-045138a7dfd0/orig",
+        "position": 456
+    },
+    {
+        "id": 155,
+        "title": "Лагерь для военнопленных № 17",
+        "rating": "8",
+        "year": 1952,
+        "budget": 1661530,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/5a202bfd-1f59-405a-97e7-2e13a60828b4/orig",
+        "position": 457
+    },
+    {
+        "id": 156,
+        "title": "Бильярдист",
+        "rating": "8",
+        "year": 1961,
+        "budget": 2000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/6972ba99-e615-4059-9a29-7678cf305744/orig",
+        "position": 459
+    },
+    {
+        "id": 157,
+        "title": "На Западном фронте без перемен",
+        "rating": "8.1",
+        "year": 1930,
+        "budget": 1200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/0fab1c78-d573-4128-a29e-60bc9fc9fbef/orig",
+        "position": 460
+    },
+    {
+        "id": 158,
+        "title": "Разговор",
+        "rating": "7.7",
+        "year": 1974,
+        "budget": 1600000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/8f0efe6b-1ed1-40a9-8879-545ac01d5040/orig",
+        "position": 461
+    },
+    {
+        "id": 159,
+        "title": "Быть Джоном Малковичем",
+        "rating": "7.7",
+        "year": 1999,
+        "budget": 13000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/20d85f7c-e113-4a80-8e4c-a0d0912025b7/orig",
+        "position": 462
+    },
+    {
+        "id": 160,
+        "title": "Поговори с ней",
+        "rating": "7.9",
+        "year": 2002,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/2f3e65ba-618e-4d0e-808a-dd74742adb23/orig",
+        "position": 463
+    },
+    {
+        "id": 161,
+        "title": "Человек-слон",
+        "rating": "8.2",
+        "year": 1980,
+        "budget": 5000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/8daaaf75-004f-4740-a020-004fd6b37094/orig",
+        "position": 464
+    },
+    {
+        "id": 162,
+        "title": "Торжество",
+        "rating": "8",
+        "year": 1998,
+        "budget": 1300000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/07a3c8aa-f536-4ff0-8483-8e898a863c82/orig",
+        "position": 465
+    },
+    {
+        "id": 163,
+        "title": "Малхолланд Драйв",
+        "rating": "7.9",
+        "year": 2001,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/477bd555-16ee-47aa-be90-6a252c189414/orig",
+        "position": 466
+    },
+    {
+        "id": 164,
+        "title": "Свой человек",
+        "rating": "7.8",
+        "year": 1999,
+        "budget": 90000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/9b7539de-4e5d-4e0a-b887-e7cd33d4222b/orig",
+        "position": 467
+    },
+    {
+        "id": 165,
+        "title": "Взвод",
+        "rating": "8.1",
+        "year": 1986,
+        "budget": 6000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/a02bf265-5cca-47ff-8778-1632925207f6/orig",
+        "position": 468
+    },
+    {
+        "id": 166,
+        "title": "Однажды в Америке",
+        "rating": "8.3",
+        "year": 1983,
+        "budget": 30000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/6d167cdd-8413-4ecc-8452-cee93be46d51/orig",
+        "position": 469
+    },
+    {
+        "id": 167,
+        "title": "Его девушка Пятница",
+        "rating": "7.8",
+        "year": 1939,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/c7bfdb56-a3e2-4620-b970-8fba7bfa3d24/orig",
+        "position": 470
+    },
+    {
+        "id": 168,
+        "title": "Крепкий орешек",
+        "rating": "8.2",
+        "year": 1988,
+        "budget": 28000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/f55f782b-2dcd-4e4c-be87-0cc13333f857/orig",
+        "position": 471
+    },
+    {
+        "id": 169,
+        "title": "Индиана Джонс и последний крестовый поход",
+        "rating": "8.2",
+        "year": 1989,
+        "budget": 48000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/0e5b1224-39cf-4b6d-af24-4ec58d53bed2/orig",
+        "position": 472
+    },
+    {
+        "id": 170,
+        "title": "Великая иллюзия",
+        "rating": "8.1",
+        "year": 1937,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10893610/a3dd386e-51df-48f8-bb31-7ab169e35f0f/orig",
+        "position": 473
+    },
+    {
+        "id": 171,
+        "title": "Гладиатор",
+        "rating": "8.5",
+        "year": 2000,
+        "budget": 103000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/7c3460dc-344d-433f-8220-f18d86c8397d/orig",
+        "position": 474
+    },
+    {
+        "id": 172,
+        "title": "Спартак",
+        "rating": "7.9",
+        "year": 1960,
+        "budget": 12000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/f45c47dc-541e-459b-9dbe-5f56861e7ee9/orig",
+        "position": 475
+    },
+    {
+        "id": 173,
+        "title": "Назад в будущее",
+        "rating": "8.5",
+        "year": 1985,
+        "budget": 19000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/73cf2ed0-fd52-47a2-9e26-74104360786a/orig",
+        "position": 476
+    },
+    {
+        "id": 174,
+        "title": "Магнолия",
+        "rating": "8",
+        "year": 1999,
+        "budget": 37000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/cb5ccf61-e366-41dd-a7bc-a2f4a163e835/orig",
+        "position": 477
+    },
+    {
+        "id": 175,
+        "title": "Золотая лихорадка",
+        "rating": "8.1",
+        "year": 1925,
+        "budget": 923000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/1e5c3624-ecd2-42a6-a296-e089a9c7e8d9/orig",
+        "position": 478
+    },
+    {
+        "id": 176,
+        "title": "Отточенное лезвие",
+        "rating": "8",
+        "year": 1995,
+        "budget": 1000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/42132596-55b5-4d54-b2a7-f85ca3b5f628/orig",
+        "position": 479
+    },
+    {
+        "id": 177,
+        "title": "Шарада",
+        "rating": "7.8",
+        "year": 1963,
+        "budget": 4000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/a7b4d4fa-5de9-4a8d-8860-cd9c191dd4ef/orig",
+        "position": 480
+    },
+    {
+        "id": 178,
+        "title": "Броненосец «Потемкин»",
+        "rating": "7.9",
+        "year": 1925,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/4172eb77-5859-4a09-90b8-3e9bcc793ca4/orig",
+        "position": 481
+    },
+    {
+        "id": 179,
+        "title": "Бразилия",
+        "rating": "7.8",
+        "year": 1985,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/40df2a3e-0cd8-4508-9340-9f0f3d8f17f5/orig",
+        "position": 483
+    },
+    {
+        "id": 180,
+        "title": "Приключения Робин Гуда",
+        "rating": "7.9",
+        "year": 1938,
+        "budget": 1900000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/d0247eed-df05-41e4-92f8-b509cf77b847/orig",
+        "position": 484
+    },
+    {
+        "id": 181,
+        "title": "Житие Брайана по Монти Пайтон",
+        "rating": "8",
+        "year": 1979,
+        "budget": 4000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/abec4924-5899-4f94-be6b-2a3cfaf4d3ad/orig",
+        "position": 485
+    },
+    {
+        "id": 182,
+        "title": "Трамвай «Желание»",
+        "rating": "7.9",
+        "year": 1951,
+        "budget": 1800000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/1b1666b7-b135-4ca5-914e-2d05bdc74c38/orig",
+        "position": 486
+    },
+    {
+        "id": 183,
+        "title": "Вечер в опере",
+        "rating": "7.8",
+        "year": 1935,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/fa51a908-1b45-450a-a9d2-a4204f66cdab/orig",
+        "position": 487
+    },
+    {
+        "id": 184,
+        "title": "Сука-любовь",
+        "rating": "8.1",
+        "year": 2000,
+        "budget": 2000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/8bc62570-5a5d-4926-8afb-267bcf2eefc1/orig",
+        "position": 488
+    },
+    {
+        "id": 185,
+        "title": "Свидетель обвинения",
+        "rating": "8.4",
+        "year": 1957,
+        "budget": 3000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/e317311b-2ad4-4a05-9578-5a9cae5d40cd/orig",
+        "position": 489
+    },
+    {
+        "id": 186,
+        "title": "Кто боится Вирджинии Вульф?",
+        "rating": "8",
+        "year": 1966,
+        "budget": 7500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/7218bf31-9bf7-4fa2-ae0f-c9ea35ce9794/orig",
+        "position": 490
+    },
+    {
+        "id": 187,
+        "title": "Изгоняющий дьявола",
+        "rating": "8.1",
+        "year": 1973,
+        "budget": 12000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/f1914ada-0b00-4afa-8560-b928cc597a9e/orig",
+        "position": 491
+    },
+    {
+        "id": 188,
+        "title": "Человек, который застрелил Либерти Вэланса",
+        "rating": "8.1",
+        "year": 1962,
+        "budget": 3200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/62dfa2b2-fbd0-477f-9a4f-7dff52550c18/orig",
+        "position": 492
+    },
+    {
+        "id": 189,
+        "title": "Вся президентская рать",
+        "rating": "7.9",
+        "year": 1976,
+        "budget": 8500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/038fb033-887e-4dd0-b71e-8a1d782d0cc2/orig",
+        "position": 493
+    },
+    {
+        "id": 190,
+        "title": "Другие",
+        "rating": "7.6",
+        "year": 2001,
+        "budget": 17000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/0718431f-db6c-40f8-b436-fb5e2dd61371/orig",
+        "position": 494
+    },
+    {
+        "id": 191,
+        "title": "День, когда остановилась Земля",
+        "rating": "7.7",
+        "year": 1951,
+        "budget": 1200000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/105f47da-f43c-4c0f-99df-d989a7079e7a/orig",
+        "position": 495
+    },
+    {
+        "id": 192,
+        "title": "Особое мнение",
+        "rating": "7.6",
+        "year": 2002,
+        "budget": 102000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/68aca81c-7f19-473b-a464-1af55226f8f5/orig",
+        "position": 496
+    },
+    {
+        "id": 193,
+        "title": "Римские каникулы",
+        "rating": "8",
+        "year": 1953,
+        "budget": 1500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/6f5b0576-7bbe-4200-b3be-2e46380d4fd3/orig",
+        "position": 497
+    },
+    {
+        "id": 194,
+        "title": "Останься со мной",
+        "rating": "8.1",
+        "year": 1986,
+        "budget": 8000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/e87570f4-723a-4da6-80be-9ac0b77bf390/orig",
+        "position": 498
+    },
+    {
+        "id": 195,
+        "title": "Траффик",
+        "rating": "7.6",
+        "year": 2000,
+        "budget": 48000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/2d12b502-54b6-4ad6-92bf-7d78b31ae460/orig",
+        "position": 499
+    },
+    {
+        "id": 196,
+        "title": "Собачий полдень",
+        "rating": "8",
+        "year": 1975,
+        "budget": 1800000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/c3963b39-f546-4e78-bf56-4c490cf778ab/orig",
+        "position": 500
+    },
+    {
+        "id": 197,
+        "title": "Три цвета: Красный",
+        "rating": "8.1",
+        "year": 1994,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4774061/db352b98-b29a-4e48-96e1-fcbba874fc07/orig",
+        "position": 501
+    },
+    {
+        "id": 198,
+        "title": "12 обезьян",
+        "rating": "8",
+        "year": 1995,
+        "budget": 29000001,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/9156c8ee-f5c5-41f0-b38c-9687104ac943/orig",
+        "position": 502
+    },
+    {
+        "id": 199,
+        "title": "Парни что надо",
+        "rating": "7.8",
+        "year": 1983,
+        "budget": 27000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/0901aefc-9290-4d1d-a96d-8506db91b57c/orig",
+        "position": 503
+    },
+    {
+        "id": 200,
+        "title": "Тень сомнения",
+        "rating": "7.8",
+        "year": 1942,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/8b1d9d77-e833-4238-9886-b9b7c1d705d4/orig",
+        "position": 504
+    },
+    {
+        "id": 201,
+        "title": "Убийство",
+        "rating": "7.9",
+        "year": 1956,
+        "budget": 320000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/4a3c19c6-e7d9-4c3c-b274-67e2b2ed0e70/orig",
+        "position": 505
+    },
+    {
+        "id": 202,
+        "title": "Полуночный ковбой",
+        "rating": "7.8",
+        "year": 1969,
+        "budget": 3600000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/af030140-db86-451a-8bc7-6991754654a2/orig",
+        "position": 506
+    },
+    {
+        "id": 203,
+        "title": "Терминатор",
+        "rating": "8.1",
+        "year": 1984,
+        "budget": 6400000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1600647/537869cd-5fb8-4993-af4c-c5f6a30e61ba/orig",
+        "position": 507
+    },
+    {
+        "id": 204,
+        "title": "Земляничная поляна",
+        "rating": "8.1",
+        "year": 1957,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/a740a845-db2b-461d-9a52-60559a481bf5/orig",
+        "position": 508
+    },
+    {
+        "id": 205,
+        "title": "Харви",
+        "rating": "7.9",
+        "year": 1950,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/6846be12-e477-410d-bab3-22474daf23eb/orig",
+        "position": 509
+    },
+    {
+        "id": 206,
+        "title": "Четыреста ударов",
+        "rating": "8.1",
+        "year": 1959,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4716873/edba2051-77f5-4788-bcf3-1ec8ae3512b5/orig",
+        "position": 510
+    },
+    {
+        "id": 207,
+        "title": "Эд Вуд",
+        "rating": "7.8",
+        "year": 1994,
+        "budget": 18000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/6d21f349-5f3f-4300-b030-bef9bc040121/orig",
+        "position": 511
+    },
+    {
+        "id": 208,
+        "title": "Быть или не быть",
+        "rating": "8.1",
+        "year": 1942,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/f5720e4b-849d-4389-8a83-5632b07f0750/orig",
+        "position": 512
+    },
+    {
+        "id": 209,
+        "title": "Ганди",
+        "rating": "8",
+        "year": 1982,
+        "budget": 22000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/bad5d424-8745-4ad6-830e-89058b504049/orig",
+        "position": 513
+    },
+    {
+        "id": 210,
+        "title": "Лев зимой",
+        "rating": "7.9",
+        "year": 1968,
+        "budget": 4000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/685f1639-76cb-47a5-909e-fc792a571b7c/orig",
+        "position": 514
+    },
+    {
+        "id": 211,
+        "title": "На игле",
+        "rating": "8.1",
+        "year": 1995,
+        "budget": 3500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/f47dc447-7360-43a4-aa05-5ac408203f5e/orig",
+        "position": 515
+    },
+    {
+        "id": 212,
+        "title": "Бонни и Клайд",
+        "rating": "7.7",
+        "year": 1967,
+        "budget": 2500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/270cdbf7-4ff7-4b1f-bca0-69950222668f/orig",
+        "position": 516
+    },
+    {
+        "id": 213,
+        "title": "Всё о моей матери",
+        "rating": "7.8",
+        "year": 1999,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/c3d4a829-613c-43ab-85ee-4674bdc27417/orig",
+        "position": 517
+    },
+    {
+        "id": 214,
+        "title": "Это – Spinal Tap",
+        "rating": "7.9",
+        "year": 1984,
+        "budget": 2500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/dd2d38e0-511c-432b-903f-623a172351ae/orig",
+        "position": 518
+    },
+    {
+        "id": 215,
+        "title": "Человек дождя",
+        "rating": "8",
+        "year": 1988,
+        "budget": 25000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/74259ac0-8003-4282-b0c9-ffe915ccd6fb/orig",
+        "position": 519
+    },
+    {
+        "id": 216,
+        "title": "Телесеть",
+        "rating": "8.1",
+        "year": 1976,
+        "budget": 3800000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/fc24f338-9074-4b62-a01b-ba20c7be6311/orig",
+        "position": 520
+    },
+    {
+        "id": 217,
+        "title": "Носферату, симфония ужаса",
+        "rating": "7.9",
+        "year": 1922,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/e951ebfd-073a-4b0c-8b41-17d6db97e997/orig",
+        "position": 521
+    },
+    {
+        "id": 218,
+        "title": "Карты, деньги, два ствола",
+        "rating": "8.1",
+        "year": 1998,
+        "budget": 960000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/6492653f-11d5-4087-a1d2-ec7a74f161d3/orig",
+        "position": 522
+    },
+    {
+        "id": 219,
+        "title": "Перекресток Миллера",
+        "rating": "7.7",
+        "year": 1990,
+        "budget": 14000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/e5222bd4-bc6d-4370-bd1a-e33f3f5668ee/orig",
+        "position": 523
+    },
+    {
+        "id": 220,
+        "title": "Дилижанс",
+        "rating": "7.8",
+        "year": 1939,
+        "budget": 392000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/2ebe237a-b96a-4857-9448-3ae402263def/orig",
+        "position": 524
+    },
+    {
+        "id": 221,
+        "title": "Генрих V: Битва при Азенкуре",
+        "rating": "7.5",
+        "year": 1989,
+        "budget": 9000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/c736679d-bd5b-4052-a443-bb438f3279d2/orig",
+        "position": 525
+    },
+    {
+        "id": 222,
+        "title": "Большой куш",
+        "rating": "8.2",
+        "year": 2000,
+        "budget": 10000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/47fe48f6-ff17-4411-a12f-d337bea2639d/orig",
+        "position": 526
+    },
+    {
+        "id": 223,
+        "title": "День сурка",
+        "rating": "8",
+        "year": 1993,
+        "budget": 14600000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/ed4f90cb-188b-4cac-a41a-c175ff9b9e48/orig",
+        "position": 527
+    },
+    {
+        "id": 224,
+        "title": "Лора",
+        "rating": "7.9",
+        "year": 1944,
+        "budget": 1020000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/b401369e-46b6-494c-97d2-6a0b2b6ef78e/orig",
+        "position": 528
+    },
+    {
+        "id": 225,
+        "title": "39 ступеней",
+        "rating": "7.6",
+        "year": 1935,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/50cd39f6-9304-43de-83d4-19f2bea7413e/orig",
+        "position": 529
+    },
+    {
+        "id": 226,
+        "title": "Игры разума",
+        "rating": "8.2",
+        "year": 2001,
+        "budget": 58000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/4303601/80f21137-eebb-4cdc-8124-96c68c07c2a8/orig",
+        "position": 530
+    },
+    {
+        "id": 227,
+        "title": "Дорога",
+        "rating": "8",
+        "year": 1954,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/cf7a4d92-75d5-47a8-bc75-396fafe282f8/orig",
+        "position": 531
+    },
+    {
+        "id": 228,
+        "title": "Наёмный убийца",
+        "rating": "7.7",
+        "year": 1989,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/3aabcbf6-32ed-46e0-b5b2-516ac21b36bd/orig",
+        "position": 532
+    },
+    {
+        "id": 229,
+        "title": "Неприкасаемые",
+        "rating": "7.8",
+        "year": 1987,
+        "budget": 25000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1704946/ae8d11fe-2205-4328-a5d3-1c45d10ce1b8/orig",
+        "position": 533
+    },
+    {
+        "id": 230,
+        "title": "Кинг Конг",
+        "rating": "7.9",
+        "year": 1933,
+        "budget": 670000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/a026a740-8a78-4ad5-95fa-3a8027fe38ec/orig",
+        "position": 534
+    },
+    {
+        "id": 231,
+        "title": "8 с половиной",
+        "rating": "8",
+        "year": 1963,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/9784475/0ce35b23-02c5-4636-a32a-d3e820aaafef/orig",
+        "position": 535
+    },
+    {
+        "id": 232,
+        "title": "Военно-полевой госпиталь",
+        "rating": "7.4",
+        "year": 1969,
+        "budget": 3500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/cc4fa6b8-c5cd-49de-8cf3-287fb9a9a664/orig",
+        "position": 537
+    },
+    {
+        "id": 233,
+        "title": "Умница Уилл Хантинг",
+        "rating": "8.3",
+        "year": 1997,
+        "budget": 10000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/0e2ecf70-4309-4e53-839b-ff3c9d8b0129/orig",
+        "position": 539
+    },
+    {
+        "id": 234,
+        "title": "Будучи там",
+        "rating": "7.9",
+        "year": 1979,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/21e00697-6f18-4cfb-b19c-d1de7e5e8027/orig",
+        "position": 541
+    },
+    {
+        "id": 235,
+        "title": "Планета обезьян",
+        "rating": "8",
+        "year": 1967,
+        "budget": 5800000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/e8258a92-26a5-48e6-b4a0-a1b905998a26/orig",
+        "position": 542
+    },
+    {
+        "id": 236,
+        "title": "Клерки",
+        "rating": "7.7",
+        "year": 1994,
+        "budget": 27000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1777765/cb253cb5-addb-42e9-b311-0294944e7dd4/orig",
+        "position": 543
+    },
+    {
+        "id": 237,
+        "title": "Инопланетянин",
+        "rating": "7.9",
+        "year": 1982,
+        "budget": 10500000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/df360301-084a-4eec-90ab-7954b143de18/orig",
+        "position": 544
+    },
+    {
+        "id": 238,
+        "title": "Рио Браво",
+        "rating": "8",
+        "year": 1958,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1773646/70556704-0fb6-4555-8202-22cb25139e98/orig",
+        "position": 545
+    },
+    {
+        "id": 239,
+        "title": "О, где же ты, брат?",
+        "rating": "7.7",
+        "year": 2000,
+        "budget": 26000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/ea64cdb1-2cc4-4fd3-b0fa-63512dc270f5/orig",
+        "position": 546
+    },
+    {
+        "id": 240,
+        "title": "Полуночная жара",
+        "rating": "7.9",
+        "year": 1967,
+        "budget": 2000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10671298/9c9bce5b-2b1d-48e1-88af-da6ad8c98c80/orig",
+        "position": 547
+    },
+    {
+        "id": 241,
+        "title": "Проклятый путь",
+        "rating": "7.7",
+        "year": 2002,
+        "budget": 80000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/e939f7fe-7c8c-4537-84f5-be85531f594d/orig",
+        "position": 548
+    },
+    {
+        "id": 242,
+        "title": "Тихий человек",
+        "rating": "7.7",
+        "year": 1952,
+        "budget": 0,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/afd4cc2c-22fe-4588-8975-4dcb67104ea6/orig",
+        "position": 549
+    },
+    {
+        "id": 243,
+        "title": "Избавление",
+        "rating": "7.7",
+        "year": 1972,
+        "budget": 2000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/b48f0781-b21e-470c-9e0b-53fee8fde1c9/orig",
+        "position": 550
+    },
+    {
+        "id": 244,
+        "title": "Близкие контакты третьей степени",
+        "rating": "7.6",
+        "year": 1977,
+        "budget": 20000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/10592371/a79f9bc4-9f22-4dc7-8699-877a3d778ae4/orig",
+        "position": 552
+    },
+    {
+        "id": 245,
+        "title": "Тонкий человек",
+        "rating": "7.9",
+        "year": 1934,
+        "budget": 226408,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1900788/e8908446-bee7-40f9-a598-aa4ab9220eb0/orig",
+        "position": 553
+    },
+    {
+        "id": 246,
+        "title": "Человек, которого не было",
+        "rating": "7.5",
+        "year": 2001,
+        "budget": 20000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1898899/31a6f645-f136-4a9b-9d02-09c12744cf33/orig",
+        "position": 554
+    },
+    {
+        "id": 247,
+        "title": "Большой Лебовски",
+        "rating": "8.1",
+        "year": 1998,
+        "budget": 15000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/6201401/86be967f-598d-46f2-bc59-bc222e2ca837/orig",
+        "position": 555
+    },
+    {
+        "id": 248,
+        "title": "Красная река",
+        "rating": "7.8",
+        "year": 1947,
+        "budget": 3000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1946459/687eb47a-9c55-480d-95de-823b684cc417/orig",
+        "position": 556
+    },
+    {
+        "id": 249,
+        "title": "Призрачный мир",
+        "rating": "7.3",
+        "year": 2001,
+        "budget": 7000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1629390/d3068bcb-f09e-4d9a-8c14-40b10edd04ab/orig",
+        "position": 557
+    },
+    {
+        "id": 250,
+        "title": "Мулен Руж",
+        "rating": "7.6",
+        "year": 2001,
+        "budget": 50000000,
+        "gross": "Undefiend",
+        "poster": "https://image.openmoviedb.com/kinopoisk-images/1599028/e2ce49ad-b53f-4394-ab3d-b274fb7feba7/orig",
+        "position": 558
+    }
+]
