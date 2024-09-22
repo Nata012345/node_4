@@ -28,5 +28,11 @@
         "email": "333333@gmail.com",
         "password": "$2a$10$vPRX4wlI6xYCRIgSlIVBGu3FKrTLabscPJq53B.sYEmrdJIfbk2FG",
         "super": false
+    },
+    {
+        "id": 6,
+        "email": "11111@gmail.com",
+        "password": "$2a$10$92iwL5NjtMFJV68Se.Itu.I4/I.zHqX9Y6aoTyp1i6dj94Q.juP1q",
+        "super": true
     }
 ]
