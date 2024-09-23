@@ -7,12 +7,13 @@ const app = express();
 const PORT = 3000;
 
 app.use(express.json());
-app.get('', (req, res) => {
-    res.send('Hello World!!!');
-})
+// app.get('', (req, res) => {
+//     res.send('Hello World!!!');
+// })
+
 app.use(checkAuthHeader);
 app.use('/getTop250', filmsRouter);
-// app.use('/api', filmsRouter);
+app.use('/api', filmsRouter);
 app.use('/api', authsRouter);
 
 app.listen(PORT, () => {

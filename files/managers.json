@@ -9,7 +9,7 @@
         "id": 2,
         "email": "11111@gmail.com",
         "password": "$2a$10$udbcwncdBqVdgK3pLnmFEeJ0Ue0eMxeJ9O7LxXwpq7eabWlNe9hua",
-        "super": true
+        "super": false
     },
     {
         "id": 3,
@@ -33,6 +33,6 @@
         "id": 6,
         "email": "11111@gmail.com",
         "password": "$2a$10$92iwL5NjtMFJV68Se.Itu.I4/I.zHqX9Y6aoTyp1i6dj94Q.juP1q",
-        "super": true
+        "super": false
     }
 ]
