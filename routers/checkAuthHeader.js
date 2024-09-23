@@ -26,7 +26,6 @@ const checkAuthHeader = async (req, res, next) => {
     const authHeader = req.headers.authorization;
     if (authHeader) {
         const token = req.headers.authorization.split(' ')[1];
-        console.log(token)
         try {
             const user = jwt.verify(token, key);
             if (!user) {
@@ -39,17 +38,13 @@ const checkAuthHeader = async (req, res, next) => {
             } else {
                 permission = permissions['noSuper']
             }
-
-            console.log(req.path)
-            console.log(permission)
-
             if (permission.includes(req.path)) {
                 req.user = user;
                 return next();
             } else {
                 return res.status(403).send('You have not permissions');
             }
-        } catch (e) {
+        } catch (error) {
             return res.status(403).send('Invalid token');
         }
     } else {

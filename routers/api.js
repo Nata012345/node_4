@@ -52,7 +52,6 @@ authsRouter.post('/auth/login', async (req, res) => {
         const email = req.body.email;
         let userByMail = managers.find(item => item.email === email);
         if (userByMail) {
-            //if (userByMail.super) {
                 const password = req.body.password;
                 const compareHush = await bcrypt.compare(password, userByMail.password);
                 if (compareHush) {
@@ -68,7 +67,6 @@ authsRouter.post('/auth/login', async (req, res) => {
                 } else {
                     res.status(401).send('Wrong password')
                 }
-            //}
         } else {
             res.status(404).send('User not found')
         }
