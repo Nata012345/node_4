@@ -9,6 +9,7 @@ const SALT = 10 //bcrypt.genSalt(10);
 const key = './files/file_n.txt';
 
 managers = fs.readFileSync('./files/managers.json', {encoding: 'utf8'});
+// managers = fs.readFileSync(filePath, {encoding: 'utf8'});
 managers = JSON.parse(managers);
 
 function writeFile(path, arr) {
@@ -29,15 +30,20 @@ async function generateHush(password) {
 authsRouter.post('/auth/register', async (req, res) => {
     try {
         const email = req.body.email;
+        console.log(email)
         const password = req.body.password;
+        console.log(password)
         let hashedPassword = await generateHush(password);
+        console.log(hashedPassword)
         let newUser = {
             "id": managers.length + 1,
             "email": email,
             "password": hashedPassword,
             "super": req.body.super
         }
+        console.log(managers);
         managers.push(newUser);
+        console.log(managers);
         writeFile(filePath, managers);
         res.status(201);
         res.send({'email': email, 'password': hashedPassword});

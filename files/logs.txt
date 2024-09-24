@@ -1,0 +1,43 @@
+
+        Time: 9/24/2024, 3:15:53 PM
+        Url: /api/auth/register
+        Method: POST
+        Authorization: undefined
+        Body: {"email":"22222@gmail.com","password":"22222","super":true}
+        
+        Time: 9/24/2024, 3:22:18 PM
+        Url: /api/auth/register
+        Method: POST
+        Authorization: undefined
+        Body: {"email":"22222@gmail.com","password":"22222","super":true}
+        
+        Time: 9/24/2024, 3:24:04 PM
+        Url: /api/auth/register
+        Method: POST
+        Authorization: undefined
+        Body: {"email":"22222@gmail.com","password":"22222","super":true}
+        
+        Time: 9/24/2024, 3:24:39 PM
+        Url: /api/auth/register
+        Method: POST
+        Authorization: undefined
+        Body: {"email":"22222@gmail.com","password":"22222","super":true}
+        
+        Time: 9/24/2024, 5:54:53 PM
+        Url: /api/auth/register
+        Method: POST
+        Authorization: undefined
+        Body: {"email":"22222@gmail.com","password":"22222","super":true}
+        
+        Time: 9/24/2024, 5:55:17 PM
+        Url: /api/auth/register
+        Method: POST
+        Authorization: undefined
+        Body: {"email":"11111@gmail.com","password":"11111","super":true}
+        
+        Time: 9/24/2024, 5:55:34 PM
+        Url: /api/auth/register
+        Method: POST
+        Authorization: undefined
+        Body: {"email":"33333@gmail.com","password":"33333","super":false}
+        
